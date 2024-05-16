@@ -8,7 +8,7 @@ Allens online log is a lightweight springboot online log viewing component, you 
 
 ```xml
 <dependency>
-    <groupId>com.allens</groupId>
+    <groupId>io.github.yh4494</groupId>
     <artifactId>allens-online-log</artifactId>
     <version>1.0-SNAPSHOT</version>
 </dependency>
