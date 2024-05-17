@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Configuration;
  * AllensOnlineLogConfiguration
  *
  * @author allens
- * @date 2024/5/8
+ * @since 2024/5/8
  */
 @Configuration
 @ComponentScan("com.allens.onlinelog")

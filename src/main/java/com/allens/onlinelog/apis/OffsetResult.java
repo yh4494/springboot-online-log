@@ -7,7 +7,7 @@ import lombok.Setter;
  * OffsetResult
  *
  * @author allens
- * @date 2024/5/8
+ * @since 2024/5/8
  */
 @Setter
 @Getter
